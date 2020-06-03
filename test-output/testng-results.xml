@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-12T10:14:21 AEST" name="Default suite" finished-at="2020-05-12T10:18:11 AEST" duration-ms="230871">
+    <groups>
+    </groups>
+    <test started-at="2020-05-12T10:14:21 AEST" name="Default test" finished-at="2020-05-12T10:18:11 AEST" duration-ms="230871">
+      <class name="Page_Test.EmailPage_Test">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Page_Test.EmailPage_Test@124c278f]" started-at="2020-05-12T10:14:21 AEST" name="SetUp" finished-at="2020-05-12T10:17:54 AEST" duration-ms="213513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="CheckAgeRestriction()[pri:0, instance:Page_Test.EmailPage_Test@124c278f]" started-at="2020-05-12T10:17:54 AEST" name="CheckAgeRestriction" finished-at="2020-05-12T10:18:10 AEST" duration-ms="16057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAgeRestriction -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Page_Test.EmailPage_Test@124c278f]" started-at="2020-05-12T10:18:10 AEST" name="tearDown" finished-at="2020-05-12T10:18:11 AEST" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Page_Test.EmailPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
